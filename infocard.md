@@ -48,6 +48,7 @@ My experience spans WordPress, React, AI agents, and the integration tools my cl
 | Languages  | HTML, css/scss, PHP, javascript, jQuery          |
 | Frameworks | WordPress, React, Next.js                        |
 | Data       | MySQL, Supabase                                  |
+| Tools      | Adobe, Figma, CapCut, Canva                      |
 
 ## Education
 
