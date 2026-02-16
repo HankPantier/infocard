@@ -10,13 +10,13 @@ open_to: [contract, consulting, project, AI consulting]
 # Hank Pantier
 
 **Senior Web Developer** · Erie, CO
-[hank@invisiblewindow.com](mailto:hank@invisiblewindow.com.com) · [GitHub](https://github.com/HankPantier/) · [LinkedIn](https://www.linkedin.com/in/webhank/)
+[hank@invisiblewindow.com](mailto:hank@invisiblewindow.com.com) · [Invisible Window](https://invisiblewindow.com/) · [GitHub](https://github.com/HankPantier/) · [LinkedIn](https://www.linkedin.com/in/webhank/)
 
 ---
 
 ## About
 
-Founder of Invisible Window, a Colorado-based studio specializing in website and web application development, I am a web strategist, designer, and developer with 20+ years of experience building digital experiences that work. So often in the development world brand and UI become two conversations, they should be one.
+Founder of Invisible Window, a Colorado-based studio specializing in web strategy, ddesign, development and web applications, I am a web strategist, designer, and developer with 20+ years of experience building digital solutions that work. Often in the development world, brand, UI, and functionality become different conversations, they should be one.
 
 My experience spans WordPress, React, AI agents, and the integration tools my clients already use. 
 
