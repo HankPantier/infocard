@@ -25,9 +25,9 @@ My experience spans WordPress, React, AI agents, and the integration tools my cl
 ### Founder — Invisible Window
 *Sept 2001 – Present*
 
-- Led the migration from monolith to microservices
-- Reduced CI/CD pipeline time by 80%
-- Mentored 5 junior engineers
+- Lead develper for hundreds of clients. Actively deployed websites and apps to streamline marketing activities.
+- Strategy, Design, Build, Optimization, and post-launch maintenance.
+- Assembled teams to deliver complex marketing deployments.
 
 ### Director of Web Development — Giveo
 *Jun 2012 – Dec 2012*
@@ -38,8 +38,7 @@ My experience spans WordPress, React, AI agents, and the integration tools my cl
 ### Lead Web Development — New Guard Media
 *Apr 2000 – Sept 2001*
 
-- Built real-time data pipeline processing 1M events/day
-- Implemented caching layer reducing API latency by 60%
+
 
 ## Skills
 
