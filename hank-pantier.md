@@ -2,8 +2,8 @@
 name: Hank Pantier
 title: Senior Web Engineer
 location: Erie, CO
-summary: Full-stack developer specializing in Front End Development, Client  React, and cloud infrastructure.
-tags: [html, css, scss, javascript, jQuery, WordPress, next.js, software engineering, react, testing, product, leadership]
+summary: Full-stack developer specializing in AI Integrations, Front End Design & Development, Web Apps,  React, and cloud infrastructure.
+tags: [ai, html, css, scss, javascript, jQuery, WordPress, next.js, software engineering, react, testing, product, leadership]
 open_to: [contract, consulting, project, AI consulting]
 ---
 
@@ -16,9 +16,9 @@ open_to: [contract, consulting, project, AI consulting]
 
 ## About
 
-Founder of Invisible Window, a Colorado-based studio specializing in website and web application development, I am a web strategist, designer, and developer with 20+ years of experience building digital experiences that work. So often in the development world brand and UI become two conversations, they should be one.
+Founder of Invisible Window, a Colorado-based studio specializing in Ai Integrations, website and web application development, I am a strategist, designer, and developer with 20+ years of experience building digital experiences that work. So often in the development world brand and UI become two conversations, they should be one.
 
-My experience spans WordPress, React, AI agents, and the integration tools my clients already use. 
+My experience spans AI Strategy and Integrations, AI agents, Front end Design and Development, API Integrations, WordPress, React and the integration tools my clients already use. 
 
 ## Experience
 
